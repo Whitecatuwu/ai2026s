@@ -1,0 +1,316 @@
+{
+  "CP950": [
+    {
+      "Character": "佑",
+      "UNICODE": "0x4F51"
+    },
+    {
+      "Character": "元",
+      "UNICODE": "0x5143"
+    },
+    {
+      "Character": "兆",
+      "UNICODE": "0x5146"
+    },
+    {
+      "Character": "全",
+      "UNICODE": "0x5168"
+    },
+    {
+      "Character": "凱",
+      "UNICODE": "0x51F1"
+    },
+    {
+      "Character": "劉",
+      "UNICODE": "0x5289"
+    },
+    {
+      "Character": "勛",
+      "UNICODE": "0x52DB"
+    },
+    {
+      "Character": "勳",
+      "UNICODE": "0x52F3"
+    },
+    {
+      "Character": "勻",
+      "UNICODE": "0x52FB"
+    },
+    {
+      "Character": "印",
+      "UNICODE": "0x5370"
+    },
+    {
+      "Character": "叡",
+      "UNICODE": "0x53E1"
+    },
+    {
+      "Character": "吳",
+      "UNICODE": "0x5433"
+    },
+    {
+      "Character": "品",
+      "UNICODE": "0x54C1"
+    },
+    {
+      "Character": "哲",
+      "UNICODE": "0x54F2"
+    },
+    {
+      "Character": "婷",
+      "UNICODE": "0x5A77"
+    },
+    {
+      "Character": "媜",
+      "UNICODE": "0x5A9C"
+    },
+    {
+      "Character": "宏",
+      "UNICODE": "0x5B8F"
+    },
+    {
+      "Character": "宥",
+      "UNICODE": "0x5BA5"
+    },
+    {
+      "Character": "尼",
+      "UNICODE": "0x5C3C"
+    },
+    {
+      "Character": "峰",
+      "UNICODE": "0x5CF0"
+    },
+    {
+      "Character": "峻",
+      "UNICODE": "0x5CFB"
+    },
+    {
+      "Character": "巫",
+      "UNICODE": "0x5DEB"
+    },
+    {
+      "Character": "帆",
+      "UNICODE": "0x5E06"
+    },
+    {
+      "Character": "廖",
+      "UNICODE": "0x5ED6"
+    },
+    {
+      "Character": "廷",
+      "UNICODE": "0x5EF7"
+    },
+    {
+      "Character": "弘",
+      "UNICODE": "0x5F18"
+    },
+    {
+      "Character": "彤",
+      "UNICODE": "0x5F64"
+    },
+    {
+      "Character": "彥",
+      "UNICODE": "0x5F65"
+    },
+    {
+      "Character": "彭",
+      "UNICODE": "0x5F6D"
+    },
+    {
+      "Character": "愍",
+      "UNICODE": "0x610D"
+    },
+    {
+      "Character": "提",
+      "UNICODE": "0x63D0"
+    },
+    {
+      "Character": "旭",
+      "UNICODE": "0x65ED"
+    },
+    {
+      "Character": "昀",
+      "UNICODE": "0x6600"
+    },
+    {
+      "Character": "昇",
+      "UNICODE": "0x6607"
+    },
+    {
+      "Character": "昌",
+      "UNICODE": "0x660C"
+    },
+    {
+      "Character": "昱",
+      "UNICODE": "0x6631"
+    },
+    {
+      "Character": "晴",
+      "UNICODE": "0x6674"
+    },
+    {
+      "Character": "暐",
+      "UNICODE": "0x6690"
+    },
+    {
+      "Character": "暟",
+      "UNICODE": "0x669F"
+    },
+    {
+      "Character": "柏",
+      "UNICODE": "0x67CF"
+    },
+    {
+      "Character": "梓",
+      "UNICODE": "0x6893"
+    },
+    {
+      "Character": "棻",
+      "UNICODE": "0x68FB"
+    },
+    {
+      "Character": "楷",
+      "UNICODE": "0x6977"
+    },
+    {
+      "Character": "榆",
+      "UNICODE": "0x6986"
+    },
+    {
+      "Character": "榕",
+      "UNICODE": "0x6995"
+    },
+    {
+      "Character": "歆",
+      "UNICODE": "0x6B46"
+    },
+    {
+      "Character": "汪",
+      "UNICODE": "0x6C6A"
+    },
+    {
+      "Character": "浩",
+      "UNICODE": "0x6D69"
+    },
+    {
+      "Character": "源",
+      "UNICODE": "0x6E90"
+    },
+    {
+      "Character": "澔",
+      "UNICODE": "0x6F94"
+    },
+    {
+      "Character": "熠",
+      "UNICODE": "0x71A0"
+    },
+    {
+      "Character": "玫",
+      "UNICODE": "0x73AB"
+    },
+    {
+      "Character": "瑄",
+      "UNICODE": "0x7444"
+    },
+    {
+      "Character": "瑋",
+      "UNICODE": "0x744B"
+    },
+    {
+      "Character": "璿",
+      "UNICODE": "0x74BF"
+    },
+    {
+      "Character": "盧",
+      "UNICODE": "0x76E7"
+    },
+    {
+      "Character": "睿",
+      "UNICODE": "0x777F"
+    },
+    {
+      "Character": "程",
+      "UNICODE": "0x7A0B"
+    },
+    {
+      "Character": "竣",
+      "UNICODE": "0x7AE3"
+    },
+    {
+      "Character": "緯",
+      "UNICODE": "0x7DEF"
+    },
+    {
+      "Character": "翰",
+      "UNICODE": "0x7FF0"
+    },
+    {
+      "Character": "肯",
+      "UNICODE": "0x80AF"
+    },
+    {
+      "Character": "胡",
+      "UNICODE": "0x80E1"
+    },
+    {
+      "Character": "脩",
+      "UNICODE": "0x8129"
+    },
+    {
+      "Character": "蓁",
+      "UNICODE": "0x84C1"
+    },
+    {
+      "Character": "蔡",
+      "UNICODE": "0x8521"
+    },
+    {
+      "Character": "蘇",
+      "UNICODE": "0x8607"
+    },
+    {
+      "Character": "褚",
+      "UNICODE": "0x891A"
+    },
+    {
+      "Character": "諭",
+      "UNICODE": "0x8AED"
+    },
+    {
+      "Character": "豐",
+      "UNICODE": "0x8C50"
+    },
+    {
+      "Character": "邱",
+      "UNICODE": "0x90B1"
+    },
+    {
+      "Character": "郭",
+      "UNICODE": "0x90ED"
+    },
+    {
+      "Character": "鄞",
+      "UNICODE": "0x911E"
+    },
+    {
+      "Character": "鄧",
+      "UNICODE": "0x9127"
+    },
+    {
+      "Character": "鈺",
+      "UNICODE": "0x923A"
+    },
+    {
+      "Character": "鍾",
+      "UNICODE": "0x937E"
+    },
+    {
+      "Character": "閎",
+      "UNICODE": "0x958E"
+    },
+    {
+      "Character": "閔",
+      "UNICODE": "0x9594"
+    }
+  ]
+}

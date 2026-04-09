@@ -1,0 +1,1428 @@
+{
+  "CP950": [
+    {
+      "Character": "!",
+      "UNICODE": "0x0021"
+    },
+    {
+      "Character": "\"",
+      "UNICODE": "0x0022"
+    },
+    {
+      "Character": "#",
+      "UNICODE": "0x0023"
+    },
+    {
+      "Character": "$",
+      "UNICODE": "0x0024"
+    },
+    {
+      "Character": "%",
+      "UNICODE": "0x0025"
+    },
+    {
+      "Character": "&",
+      "UNICODE": "0x0026"
+    },
+    {
+      "Character": "'",
+      "UNICODE": "0x0027"
+    },
+    {
+      "Character": "(",
+      "UNICODE": "0x0028"
+    },
+    {
+      "Character": ")",
+      "UNICODE": "0x0029"
+    },
+    {
+      "Character": "*",
+      "UNICODE": "0x002A"
+    },
+    {
+      "Character": "+",
+      "UNICODE": "0x002B"
+    },
+    {
+      "Character": ",",
+      "UNICODE": "0x002C"
+    },
+    {
+      "Character": "-",
+      "UNICODE": "0x002D"
+    },
+    {
+      "Character": ".",
+      "UNICODE": "0x002E"
+    },
+    {
+      "Character": "/",
+      "UNICODE": "0x002F"
+    },
+    {
+      "Character": ":",
+      "UNICODE": "0x003A"
+    },
+    {
+      "Character": ";",
+      "UNICODE": "0x003B"
+    },
+    {
+      "Character": "<",
+      "UNICODE": "0x003C"
+    },
+    {
+      "Character": "=",
+      "UNICODE": "0x003D"
+    },
+    {
+      "Character": ">",
+      "UNICODE": "0x003E"
+    },
+    {
+      "Character": "?",
+      "UNICODE": "0x003F"
+    },
+    {
+      "Character": "@",
+      "UNICODE": "0x0040"
+    },
+    {
+      "Character": "[",
+      "UNICODE": "0x005B"
+    },
+    {
+      "Character": "\\",
+      "UNICODE": "0x005C"
+    },
+    {
+      "Character": "]",
+      "UNICODE": "0x005D"
+    },
+    {
+      "Character": "^",
+      "UNICODE": "0x005E"
+    },
+    {
+      "Character": "_",
+      "UNICODE": "0x005F"
+    },
+    {
+      "Character": "`",
+      "UNICODE": "0x0060"
+    },
+    {
+      "Character": "{",
+      "UNICODE": "0x007B"
+    },
+    {
+      "Character": "|",
+      "UNICODE": "0x007C"
+    },
+    {
+      "Character": "}",
+      "UNICODE": "0x007D"
+    },
+    {
+      "Character": "~",
+      "UNICODE": "0x007E"
+    },
+    {
+      "Character": "¡",
+      "UNICODE": "0x00A1"
+    },
+    {
+      "Character": "¢",
+      "UNICODE": "0x00A2"
+    },
+    {
+      "Character": "£",
+      "UNICODE": "0x00A3"
+    },
+    {
+      "Character": "¤",
+      "UNICODE": "0x00A4"
+    },
+    {
+      "Character": "¥",
+      "UNICODE": "0x00A5"
+    },
+    {
+      "Character": "¦",
+      "UNICODE": "0x00A6"
+    },
+    {
+      "Character": "§",
+      "UNICODE": "0x00A7"
+    },
+    {
+      "Character": "©",
+      "UNICODE": "0x00A9"
+    },
+    {
+      "Character": "ª",
+      "UNICODE": "0x00AA"
+    },
+    {
+      "Character": "«",
+      "UNICODE": "0x00AB"
+    },
+    {
+      "Character": "¬",
+      "UNICODE": "0x00AC"
+    },
+    {
+      "Character": "®",
+      "UNICODE": "0x00AE"
+    },
+    {
+      "Character": "¯",
+      "UNICODE": "0x00AF"
+    },
+    {
+      "Character": "°",
+      "UNICODE": "0x00B0"
+    },
+    {
+      "Character": "±",
+      "UNICODE": "0x00B1"
+    },
+    {
+      "Character": "¶",
+      "UNICODE": "0x00B6"
+    },
+    {
+      "Character": "·",
+      "UNICODE": "0x00B7"
+    },
+    {
+      "Character": "º",
+      "UNICODE": "0x00BA"
+    },
+    {
+      "Character": "»",
+      "UNICODE": "0x00BB"
+    },
+    {
+      "Character": "¿",
+      "UNICODE": "0x00BF"
+    },
+    {
+      "Character": "×",
+      "UNICODE": "0x00D7"
+    },
+    {
+      "Character": "Ø",
+      "UNICODE": "0x00D8"
+    },
+    {
+      "Character": "÷",
+      "UNICODE": "0x00F7"
+    },
+    {
+      "Character": "ˍ",
+      "UNICODE": "0x02CD"
+    },
+    {
+      "Character": "π",
+      "UNICODE": "0x03C0"
+    },
+    {
+      "Character": "،",
+      "UNICODE": "0x060C"
+    },
+    {
+      "Character": "؟",
+      "UNICODE": "0x061F"
+    },
+    {
+      "Character": "ฯ",
+      "UNICODE": "0x0E2F"
+    },
+    {
+      "Character": "฿",
+      "UNICODE": "0x0E3F"
+    },
+    {
+      "Character": "᠁",
+      "UNICODE": "0x1801"
+    },
+    {
+      "Character": "‐",
+      "UNICODE": "0x2010"
+    },
+    {
+      "Character": "‒",
+      "UNICODE": "0x2012"
+    },
+    {
+      "Character": "–",
+      "UNICODE": "0x2013"
+    },
+    {
+      "Character": "—",
+      "UNICODE": "0x2014"
+    },
+    {
+      "Character": "―",
+      "UNICODE": "0x2015"
+    },
+    {
+      "Character": "‖",
+      "UNICODE": "0x2016"
+    },
+    {
+      "Character": "‘",
+      "UNICODE": "0x2018"
+    },
+    {
+      "Character": "’",
+      "UNICODE": "0x2019"
+    },
+    {
+      "Character": "“",
+      "UNICODE": "0x201C"
+    },
+    {
+      "Character": "”",
+      "UNICODE": "0x201D"
+    },
+    {
+      "Character": "†",
+      "UNICODE": "0x2020"
+    },
+    {
+      "Character": "‡",
+      "UNICODE": "0x2021"
+    },
+    {
+      "Character": "•",
+      "UNICODE": "0x2022"
+    },
+    {
+      "Character": "‥",
+      "UNICODE": "0x2025"
+    },
+    {
+      "Character": "…",
+      "UNICODE": "0x2026"
+    },
+    {
+      "Character": "‧",
+      "UNICODE": "0x2027"
+    },
+    {
+      "Character": "‰",
+      "UNICODE": "0x2030"
+    },
+    {
+      "Character": "‱",
+      "UNICODE": "0x2031"
+    },
+    {
+      "Character": "′",
+      "UNICODE": "0x2032"
+    },
+    {
+      "Character": "″",
+      "UNICODE": "0x2033"
+    },
+    {
+      "Character": "‴",
+      "UNICODE": "0x2034"
+    },
+    {
+      "Character": "‵",
+      "UNICODE": "0x2035"
+    },
+    {
+      "Character": "‹",
+      "UNICODE": "0x2039"
+    },
+    {
+      "Character": "›",
+      "UNICODE": "0x203A"
+    },
+    {
+      "Character": "※",
+      "UNICODE": "0x203B"
+    },
+    {
+      "Character": "‼",
+      "UNICODE": "0x203C"
+    },
+    {
+      "Character": "‾",
+      "UNICODE": "0x203E"
+    },
+    {
+      "Character": "⁄",
+      "UNICODE": "0x2044"
+    },
+    {
+      "Character": "⁇",
+      "UNICODE": "0x2047"
+    },
+    {
+      "Character": "⁈",
+      "UNICODE": "0x2048"
+    },
+    {
+      "Character": "⁉",
+      "UNICODE": "0x2049"
+    },
+    {
+      "Character": "⁜",
+      "UNICODE": "0x205C"
+    },
+    {
+      "Character": "₩",
+      "UNICODE": "0x20A9"
+    },
+    {
+      "Character": "€",
+      "UNICODE": "0x20AC"
+    },
+    {
+      "Character": "℃",
+      "UNICODE": "0x2103"
+    },
+    {
+      "Character": "℅",
+      "UNICODE": "0x2105"
+    },
+    {
+      "Character": "℉",
+      "UNICODE": "0x2109"
+    },
+    {
+      "Character": "№",
+      "UNICODE": "0x2116"
+    },
+    {
+      "Character": "℗",
+      "UNICODE": "0x2117"
+    },
+    {
+      "Character": "℠",
+      "UNICODE": "0x2120"
+    },
+    {
+      "Character": "℡",
+      "UNICODE": "0x2121"
+    },
+    {
+      "Character": "™",
+      "UNICODE": "0x2122"
+    },
+    {
+      "Character": "←",
+      "UNICODE": "0x2190"
+    },
+    {
+      "Character": "↑",
+      "UNICODE": "0x2191"
+    },
+    {
+      "Character": "→",
+      "UNICODE": "0x2192"
+    },
+    {
+      "Character": "↓",
+      "UNICODE": "0x2193"
+    },
+    {
+      "Character": "↔",
+      "UNICODE": "0x2194"
+    },
+    {
+      "Character": "↕",
+      "UNICODE": "0x2195"
+    },
+    {
+      "Character": "↖",
+      "UNICODE": "0x2196"
+    },
+    {
+      "Character": "↗",
+      "UNICODE": "0x2197"
+    },
+    {
+      "Character": "↘",
+      "UNICODE": "0x2198"
+    },
+    {
+      "Character": "↙",
+      "UNICODE": "0x2199"
+    },
+    {
+      "Character": "↺",
+      "UNICODE": "0x21BA"
+    },
+    {
+      "Character": "↻",
+      "UNICODE": "0x21BB"
+    },
+    {
+      "Character": "⇠",
+      "UNICODE": "0x21E0"
+    },
+    {
+      "Character": "⇡",
+      "UNICODE": "0x21E1"
+    },
+    {
+      "Character": "⇢",
+      "UNICODE": "0x21E2"
+    },
+    {
+      "Character": "⇣",
+      "UNICODE": "0x21E3"
+    },
+    {
+      "Character": "∏",
+      "UNICODE": "0x220F"
+    },
+    {
+      "Character": "∑",
+      "UNICODE": "0x2211"
+    },
+    {
+      "Character": "−",
+      "UNICODE": "0x2212"
+    },
+    {
+      "Character": "∓",
+      "UNICODE": "0x2213"
+    },
+    {
+      "Character": "∕",
+      "UNICODE": "0x2215"
+    },
+    {
+      "Character": "√",
+      "UNICODE": "0x221A"
+    },
+    {
+      "Character": "∛",
+      "UNICODE": "0x221B"
+    },
+    {
+      "Character": "∜",
+      "UNICODE": "0x221C"
+    },
+    {
+      "Character": "∞",
+      "UNICODE": "0x221E"
+    },
+    {
+      "Character": "∟",
+      "UNICODE": "0x221F"
+    },
+    {
+      "Character": "∠",
+      "UNICODE": "0x2220"
+    },
+    {
+      "Character": "∩",
+      "UNICODE": "0x2229"
+    },
+    {
+      "Character": "∪",
+      "UNICODE": "0x222A"
+    },
+    {
+      "Character": "∫",
+      "UNICODE": "0x222B"
+    },
+    {
+      "Character": "∮",
+      "UNICODE": "0x222E"
+    },
+    {
+      "Character": "∴",
+      "UNICODE": "0x2234"
+    },
+    {
+      "Character": "∵",
+      "UNICODE": "0x2235"
+    },
+    {
+      "Character": "≈",
+      "UNICODE": "0x2248"
+    },
+    {
+      "Character": "≒",
+      "UNICODE": "0x2252"
+    },
+    {
+      "Character": "≠",
+      "UNICODE": "0x2260"
+    },
+    {
+      "Character": "≡",
+      "UNICODE": "0x2261"
+    },
+    {
+      "Character": "≤",
+      "UNICODE": "0x2264"
+    },
+    {
+      "Character": "≥",
+      "UNICODE": "0x2265"
+    },
+    {
+      "Character": "≦",
+      "UNICODE": "0x2266"
+    },
+    {
+      "Character": "≧",
+      "UNICODE": "0x2267"
+    },
+    {
+      "Character": "≪",
+      "UNICODE": "0x226A"
+    },
+    {
+      "Character": "≫",
+      "UNICODE": "0x226B"
+    },
+    {
+      "Character": "⊕",
+      "UNICODE": "0x2295"
+    },
+    {
+      "Character": "⊙",
+      "UNICODE": "0x2299"
+    },
+    {
+      "Character": "⊥",
+      "UNICODE": "0x22A5"
+    },
+    {
+      "Character": "⊿",
+      "UNICODE": "0x22BF"
+    },
+    {
+      "Character": "⋯",
+      "UNICODE": "0x22EF"
+    },
+    {
+      "Character": "⌒",
+      "UNICODE": "0x2312"
+    },
+    {
+      "Character": "⍻",
+      "UNICODE": "0x237B"
+    },
+    {
+      "Character": "⎷",
+      "UNICODE": "0x23B7"
+    },
+    {
+      "Character": "─",
+      "UNICODE": "0x2500"
+    },
+    {
+      "Character": "│",
+      "UNICODE": "0x2502"
+    },
+    {
+      "Character": "╳",
+      "UNICODE": "0x2573"
+    },
+    {
+      "Character": "╴",
+      "UNICODE": "0x2574"
+    },
+    {
+      "Character": "▉",
+      "UNICODE": "0x2589"
+    },
+    {
+      "Character": "■",
+      "UNICODE": "0x25A0"
+    },
+    {
+      "Character": "□",
+      "UNICODE": "0x25A1"
+    },
+    {
+      "Character": "▲",
+      "UNICODE": "0x25B2"
+    },
+    {
+      "Character": "△",
+      "UNICODE": "0x25B3"
+    },
+    {
+      "Character": "▶",
+      "UNICODE": "0x25B6"
+    },
+    {
+      "Character": "▷",
+      "UNICODE": "0x25B7"
+    },
+    {
+      "Character": "▼",
+      "UNICODE": "0x25BC"
+    },
+    {
+      "Character": "▽",
+      "UNICODE": "0x25BD"
+    },
+    {
+      "Character": "◀",
+      "UNICODE": "0x25C0"
+    },
+    {
+      "Character": "◁",
+      "UNICODE": "0x25C1"
+    },
+    {
+      "Character": "◆",
+      "UNICODE": "0x25C6"
+    },
+    {
+      "Character": "◇",
+      "UNICODE": "0x25C7"
+    },
+    {
+      "Character": "○",
+      "UNICODE": "0x25CB"
+    },
+    {
+      "Character": "◎",
+      "UNICODE": "0x25CE"
+    },
+    {
+      "Character": "●",
+      "UNICODE": "0x25CF"
+    },
+    {
+      "Character": "◦",
+      "UNICODE": "0x25E6"
+    },
+    {
+      "Character": "◯",
+      "UNICODE": "0x25EF"
+    },
+    {
+      "Character": "★",
+      "UNICODE": "0x2605"
+    },
+    {
+      "Character": "☆",
+      "UNICODE": "0x2606"
+    },
+    {
+      "Character": "♀",
+      "UNICODE": "0x2640"
+    },
+    {
+      "Character": "♂",
+      "UNICODE": "0x2642"
+    },
+    {
+      "Character": "♾",
+      "UNICODE": "0x267E"
+    },
+    {
+      "Character": "✓",
+      "UNICODE": "0x2713"
+    },
+    {
+      "Character": "✔",
+      "UNICODE": "0x2714"
+    },
+    {
+      "Character": "✕",
+      "UNICODE": "0x2715"
+    },
+    {
+      "Character": "✖",
+      "UNICODE": "0x2716"
+    },
+    {
+      "Character": "✗",
+      "UNICODE": "0x2717"
+    },
+    {
+      "Character": "✘",
+      "UNICODE": "0x2718"
+    },
+    {
+      "Character": "➜",
+      "UNICODE": "0x279C"
+    },
+    {
+      "Character": "➝",
+      "UNICODE": "0x279D"
+    },
+    {
+      "Character": "➞",
+      "UNICODE": "0x279E"
+    },
+    {
+      "Character": "➟",
+      "UNICODE": "0x279F"
+    },
+    {
+      "Character": "➢",
+      "UNICODE": "0x27A2"
+    },
+    {
+      "Character": "➣",
+      "UNICODE": "0x27A3"
+    },
+    {
+      "Character": "⟦",
+      "UNICODE": "0x27E6"
+    },
+    {
+      "Character": "⟧",
+      "UNICODE": "0x27E7"
+    },
+    {
+      "Character": "⟨",
+      "UNICODE": "0x27E8"
+    },
+    {
+      "Character": "⟩",
+      "UNICODE": "0x27E9"
+    },
+    {
+      "Character": "⟪",
+      "UNICODE": "0x27EA"
+    },
+    {
+      "Character": "⟫",
+      "UNICODE": "0x27EB"
+    },
+    {
+      "Character": "⟬",
+      "UNICODE": "0x27EC"
+    },
+    {
+      "Character": "⟭",
+      "UNICODE": "0x27ED"
+    },
+    {
+      "Character": "⟲",
+      "UNICODE": "0x27F2"
+    },
+    {
+      "Character": "⟳",
+      "UNICODE": "0x27F3"
+    },
+    {
+      "Character": "⥀",
+      "UNICODE": "0x2940"
+    },
+    {
+      "Character": "⥁",
+      "UNICODE": "0x2941"
+    },
+    {
+      "Character": "⦅",
+      "UNICODE": "0x2985"
+    },
+    {
+      "Character": "⦆",
+      "UNICODE": "0x2986"
+    },
+    {
+      "Character": "⧨",
+      "UNICODE": "0x29E8"
+    },
+    {
+      "Character": "⧩",
+      "UNICODE": "0x29E9"
+    },
+    {
+      "Character": "⧸",
+      "UNICODE": "0x29F8"
+    },
+    {
+      "Character": "⬅",
+      "UNICODE": "0x2B05"
+    },
+    {
+      "Character": "⬆",
+      "UNICODE": "0x2B06"
+    },
+    {
+      "Character": "⬇",
+      "UNICODE": "0x2B07"
+    },
+    {
+      "Character": "⬈",
+      "UNICODE": "0x2B08"
+    },
+    {
+      "Character": "⬉",
+      "UNICODE": "0x2B09"
+    },
+    {
+      "Character": "⬊",
+      "UNICODE": "0x2B0A"
+    },
+    {
+      "Character": "⬋",
+      "UNICODE": "0x2B0B"
+    },
+    {
+      "Character": "⬌",
+      "UNICODE": "0x2B0C"
+    },
+    {
+      "Character": "⬍",
+      "UNICODE": "0x2B0D"
+    },
+    {
+      "Character": "⸺",
+      "UNICODE": "0x2E3A"
+    },
+    {
+      "Character": "⹋",
+      "UNICODE": "0x2E4B"
+    },
+    {
+      "Character": "、",
+      "UNICODE": "0x3001"
+    },
+    {
+      "Character": "。",
+      "UNICODE": "0x3002"
+    },
+    {
+      "Character": "〃",
+      "UNICODE": "0x3003"
+    },
+    {
+      "Character": "々",
+      "UNICODE": "0x3005"
+    },
+    {
+      "Character": "〈",
+      "UNICODE": "0x3008"
+    },
+    {
+      "Character": "〉",
+      "UNICODE": "0x3009"
+    },
+    {
+      "Character": "《",
+      "UNICODE": "0x300A"
+    },
+    {
+      "Character": "》",
+      "UNICODE": "0x300B"
+    },
+    {
+      "Character": "「",
+      "UNICODE": "0x300C"
+    },
+    {
+      "Character": "」",
+      "UNICODE": "0x300D"
+    },
+    {
+      "Character": "『",
+      "UNICODE": "0x300E"
+    },
+    {
+      "Character": "』",
+      "UNICODE": "0x300F"
+    },
+    {
+      "Character": "【",
+      "UNICODE": "0x3010"
+    },
+    {
+      "Character": "】",
+      "UNICODE": "0x3011"
+    },
+    {
+      "Character": "〒",
+      "UNICODE": "0x3012"
+    },
+    {
+      "Character": "〔",
+      "UNICODE": "0x3014"
+    },
+    {
+      "Character": "〕",
+      "UNICODE": "0x3015"
+    },
+    {
+      "Character": "〖",
+      "UNICODE": "0x3016"
+    },
+    {
+      "Character": "〗",
+      "UNICODE": "0x3017"
+    },
+    {
+      "Character": "〘",
+      "UNICODE": "0x3018"
+    },
+    {
+      "Character": "〙",
+      "UNICODE": "0x3019"
+    },
+    {
+      "Character": "〚",
+      "UNICODE": "0x301A"
+    },
+    {
+      "Character": "〛",
+      "UNICODE": "0x301B"
+    },
+    {
+      "Character": "〝",
+      "UNICODE": "0x301D"
+    },
+    {
+      "Character": "〞",
+      "UNICODE": "0x301E"
+    },
+    {
+      "Character": "㊣",
+      "UNICODE": "0x32A3"
+    },
+    {
+      "Character": "㏂",
+      "UNICODE": "0x33C2"
+    },
+    {
+      "Character": "㏇",
+      "UNICODE": "0x33C7"
+    },
+    {
+      "Character": "㏑",
+      "UNICODE": "0x33D1"
+    },
+    {
+      "Character": "㏒",
+      "UNICODE": "0x33D2"
+    },
+    {
+      "Character": "㏘",
+      "UNICODE": "0x33D8"
+    },
+    {
+      "Character": "卍",
+      "UNICODE": "0x534D"
+    },
+    {
+      "Character": "卐",
+      "UNICODE": "0x5350"
+    },
+    {
+      "Character": "︗",
+      "UNICODE": "0xFE17"
+    },
+    {
+      "Character": "︘",
+      "UNICODE": "0xFE18"
+    },
+    {
+      "Character": "︰",
+      "UNICODE": "0xFE30"
+    },
+    {
+      "Character": "︱",
+      "UNICODE": "0xFE31"
+    },
+    {
+      "Character": "︳",
+      "UNICODE": "0xFE33"
+    },
+    {
+      "Character": "︴",
+      "UNICODE": "0xFE34"
+    },
+    {
+      "Character": "︵",
+      "UNICODE": "0xFE35"
+    },
+    {
+      "Character": "︶",
+      "UNICODE": "0xFE36"
+    },
+    {
+      "Character": "︷",
+      "UNICODE": "0xFE37"
+    },
+    {
+      "Character": "︸",
+      "UNICODE": "0xFE38"
+    },
+    {
+      "Character": "︹",
+      "UNICODE": "0xFE39"
+    },
+    {
+      "Character": "︺",
+      "UNICODE": "0xFE3A"
+    },
+    {
+      "Character": "︻",
+      "UNICODE": "0xFE3B"
+    },
+    {
+      "Character": "︼",
+      "UNICODE": "0xFE3C"
+    },
+    {
+      "Character": "︽",
+      "UNICODE": "0xFE3D"
+    },
+    {
+      "Character": "︾",
+      "UNICODE": "0xFE3E"
+    },
+    {
+      "Character": "︿",
+      "UNICODE": "0xFE3F"
+    },
+    {
+      "Character": "﹀",
+      "UNICODE": "0xFE40"
+    },
+    {
+      "Character": "﹁",
+      "UNICODE": "0xFE41"
+    },
+    {
+      "Character": "﹂",
+      "UNICODE": "0xFE42"
+    },
+    {
+      "Character": "﹃",
+      "UNICODE": "0xFE43"
+    },
+    {
+      "Character": "﹄",
+      "UNICODE": "0xFE44"
+    },
+    {
+      "Character": "﹉",
+      "UNICODE": "0xFE49"
+    },
+    {
+      "Character": "﹊",
+      "UNICODE": "0xFE4A"
+    },
+    {
+      "Character": "﹋",
+      "UNICODE": "0xFE4B"
+    },
+    {
+      "Character": "﹌",
+      "UNICODE": "0xFE4C"
+    },
+    {
+      "Character": "﹍",
+      "UNICODE": "0xFE4D"
+    },
+    {
+      "Character": "﹎",
+      "UNICODE": "0xFE4E"
+    },
+    {
+      "Character": "﹏",
+      "UNICODE": "0xFE4F"
+    },
+    {
+      "Character": "﹐",
+      "UNICODE": "0xFE50"
+    },
+    {
+      "Character": "﹑",
+      "UNICODE": "0xFE51"
+    },
+    {
+      "Character": "﹒",
+      "UNICODE": "0xFE52"
+    },
+    {
+      "Character": "﹔",
+      "UNICODE": "0xFE54"
+    },
+    {
+      "Character": "﹕",
+      "UNICODE": "0xFE55"
+    },
+    {
+      "Character": "﹖",
+      "UNICODE": "0xFE56"
+    },
+    {
+      "Character": "﹗",
+      "UNICODE": "0xFE57"
+    },
+    {
+      "Character": "﹙",
+      "UNICODE": "0xFE59"
+    },
+    {
+      "Character": "﹚",
+      "UNICODE": "0xFE5A"
+    },
+    {
+      "Character": "﹛",
+      "UNICODE": "0xFE5B"
+    },
+    {
+      "Character": "﹜",
+      "UNICODE": "0xFE5C"
+    },
+    {
+      "Character": "﹝",
+      "UNICODE": "0xFE5D"
+    },
+    {
+      "Character": "﹞",
+      "UNICODE": "0xFE5E"
+    },
+    {
+      "Character": "﹠",
+      "UNICODE": "0xFE60"
+    },
+    {
+      "Character": "﹡",
+      "UNICODE": "0xFE61"
+    },
+    {
+      "Character": "﹢",
+      "UNICODE": "0xFE62"
+    },
+    {
+      "Character": "﹣",
+      "UNICODE": "0xFE63"
+    },
+    {
+      "Character": "﹤",
+      "UNICODE": "0xFE64"
+    },
+    {
+      "Character": "﹥",
+      "UNICODE": "0xFE65"
+    },
+    {
+      "Character": "﹦",
+      "UNICODE": "0xFE66"
+    },
+    {
+      "Character": "﹨",
+      "UNICODE": "0xFE68"
+    },
+    {
+      "Character": "﹩",
+      "UNICODE": "0xFE69"
+    },
+    {
+      "Character": "﹪",
+      "UNICODE": "0xFE6A"
+    },
+    {
+      "Character": "﹫",
+      "UNICODE": "0xFE6B"
+    },
+    {
+      "Character": "！",
+      "UNICODE": "0xFF01"
+    },
+    {
+      "Character": "＂",
+      "UNICODE": "0xFF02"
+    },
+    {
+      "Character": "＃",
+      "UNICODE": "0xFF03"
+    },
+    {
+      "Character": "＄",
+      "UNICODE": "0xFF04"
+    },
+    {
+      "Character": "％",
+      "UNICODE": "0xFF05"
+    },
+    {
+      "Character": "＆",
+      "UNICODE": "0xFF06"
+    },
+    {
+      "Character": "＇",
+      "UNICODE": "0xFF07"
+    },
+    {
+      "Character": "（",
+      "UNICODE": "0xFF08"
+    },
+    {
+      "Character": "）",
+      "UNICODE": "0xFF09"
+    },
+    {
+      "Character": "＊",
+      "UNICODE": "0xFF0A"
+    },
+    {
+      "Character": "＋",
+      "UNICODE": "0xFF0B"
+    },
+    {
+      "Character": "，",
+      "UNICODE": "0xFF0C"
+    },
+    {
+      "Character": "－",
+      "UNICODE": "0xFF0D"
+    },
+    {
+      "Character": "．",
+      "UNICODE": "0xFF0E"
+    },
+    {
+      "Character": "／",
+      "UNICODE": "0xFF0F"
+    },
+    {
+      "Character": "：",
+      "UNICODE": "0xFF1A"
+    },
+    {
+      "Character": "；",
+      "UNICODE": "0xFF1B"
+    },
+    {
+      "Character": "＜",
+      "UNICODE": "0xFF1C"
+    },
+    {
+      "Character": "＝",
+      "UNICODE": "0xFF1D"
+    },
+    {
+      "Character": "＞",
+      "UNICODE": "0xFF1E"
+    },
+    {
+      "Character": "？",
+      "UNICODE": "0xFF1F"
+    },
+    {
+      "Character": "＠",
+      "UNICODE": "0xFF20"
+    },
+    {
+      "Character": "［",
+      "UNICODE": "0xFF3B"
+    },
+    {
+      "Character": "＼",
+      "UNICODE": "0xFF3C"
+    },
+    {
+      "Character": "］",
+      "UNICODE": "0xFF3D"
+    },
+    {
+      "Character": "＾",
+      "UNICODE": "0xFF3E"
+    },
+    {
+      "Character": "＿",
+      "UNICODE": "0xFF3F"
+    },
+    {
+      "Character": "｀",
+      "UNICODE": "0xFF40"
+    },
+    {
+      "Character": "｛",
+      "UNICODE": "0xFF5B"
+    },
+    {
+      "Character": "｜",
+      "UNICODE": "0xFF5C"
+    },
+    {
+      "Character": "｝",
+      "UNICODE": "0xFF5D"
+    },
+    {
+      "Character": "～",
+      "UNICODE": "0xFF5E"
+    },
+    {
+      "Character": "｟",
+      "UNICODE": "0xFF5F"
+    },
+    {
+      "Character": "｠",
+      "UNICODE": "0xFF60"
+    },
+    {
+      "Character": "￠",
+      "UNICODE": "0xFFE0"
+    },
+    {
+      "Character": "￡",
+      "UNICODE": "0xFFE1"
+    },
+    {
+      "Character": "￢",
+      "UNICODE": "0xFFE2"
+    },
+    {
+      "Character": "￣",
+      "UNICODE": "0xFFE3"
+    },
+    {
+      "Character": "￤",
+      "UNICODE": "0xFFE4"
+    },
+    {
+      "Character": "￥",
+      "UNICODE": "0xFFE5"
+    },
+    {
+      "Character": "￦",
+      "UNICODE": "0xFFE6"
+    },
+    {
+      "Character": "￨",
+      "UNICODE": "0xFFE8"
+    },
+    {
+      "Character": "￩",
+      "UNICODE": "0xFFE9"
+    },
+    {
+      "Character": "￪",
+      "UNICODE": "0xFFEA"
+    },
+    {
+      "Character": "￫",
+      "UNICODE": "0xFFEB"
+    },
+    {
+      "Character": "￬",
+      "UNICODE": "0xFFEC"
+    },
+    {
+      "Character": "￭",
+      "UNICODE": "0xFFED"
+    },
+    {
+      "Character": "￮",
+      "UNICODE": "0xFFEE"
+    }
+  ]
+}

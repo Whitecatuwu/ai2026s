@@ -1,0 +1,2116 @@
+{
+  "CP950": [
+    {
+      "Character": "ˇ",
+      "UNICODE": "0x02C7"
+    },
+    {
+      "Character": "ˉ",
+      "UNICODE": "0x02C9"
+    },
+    {
+      "Character": "ˊ",
+      "UNICODE": "0x02CA"
+    },
+    {
+      "Character": "ˋ",
+      "UNICODE": "0x02CB"
+    },
+    {
+      "Character": "˙",
+      "UNICODE": "0x02D9"
+    },
+    {
+      "Character": "⼀",
+      "UNICODE": "0x2F00"
+    },
+    {
+      "Character": "⼁",
+      "UNICODE": "0x2F01"
+    },
+    {
+      "Character": "⼂",
+      "UNICODE": "0x2F02"
+    },
+    {
+      "Character": "⼃",
+      "UNICODE": "0x2F03"
+    },
+    {
+      "Character": "⼄",
+      "UNICODE": "0x2F04"
+    },
+    {
+      "Character": "⼅",
+      "UNICODE": "0x2F05"
+    },
+    {
+      "Character": "⼆",
+      "UNICODE": "0x2F06"
+    },
+    {
+      "Character": "⼇",
+      "UNICODE": "0x2F07"
+    },
+    {
+      "Character": "⼈",
+      "UNICODE": "0x2F08"
+    },
+    {
+      "Character": "⼉",
+      "UNICODE": "0x2F09"
+    },
+    {
+      "Character": "⼊",
+      "UNICODE": "0x2F0A"
+    },
+    {
+      "Character": "⼋",
+      "UNICODE": "0x2F0B"
+    },
+    {
+      "Character": "⼌",
+      "UNICODE": "0x2F0C"
+    },
+    {
+      "Character": "⼍",
+      "UNICODE": "0x2F0D"
+    },
+    {
+      "Character": "⼎",
+      "UNICODE": "0x2F0E"
+    },
+    {
+      "Character": "⼏",
+      "UNICODE": "0x2F0F"
+    },
+    {
+      "Character": "⼐",
+      "UNICODE": "0x2F10"
+    },
+    {
+      "Character": "⼑",
+      "UNICODE": "0x2F11"
+    },
+    {
+      "Character": "⼒",
+      "UNICODE": "0x2F12"
+    },
+    {
+      "Character": "⼓",
+      "UNICODE": "0x2F13"
+    },
+    {
+      "Character": "⼔",
+      "UNICODE": "0x2F14"
+    },
+    {
+      "Character": "⼕",
+      "UNICODE": "0x2F15"
+    },
+    {
+      "Character": "⼖",
+      "UNICODE": "0x2F16"
+    },
+    {
+      "Character": "⼗",
+      "UNICODE": "0x2F17"
+    },
+    {
+      "Character": "⼘",
+      "UNICODE": "0x2F18"
+    },
+    {
+      "Character": "⼙",
+      "UNICODE": "0x2F19"
+    },
+    {
+      "Character": "⼚",
+      "UNICODE": "0x2F1A"
+    },
+    {
+      "Character": "⼛",
+      "UNICODE": "0x2F1B"
+    },
+    {
+      "Character": "⼜",
+      "UNICODE": "0x2F1C"
+    },
+    {
+      "Character": "⼝",
+      "UNICODE": "0x2F1D"
+    },
+    {
+      "Character": "⼞",
+      "UNICODE": "0x2F1E"
+    },
+    {
+      "Character": "⼟",
+      "UNICODE": "0x2F1F"
+    },
+    {
+      "Character": "⼠",
+      "UNICODE": "0x2F20"
+    },
+    {
+      "Character": "⼡",
+      "UNICODE": "0x2F21"
+    },
+    {
+      "Character": "⼢",
+      "UNICODE": "0x2F22"
+    },
+    {
+      "Character": "⼣",
+      "UNICODE": "0x2F23"
+    },
+    {
+      "Character": "⼤",
+      "UNICODE": "0x2F24"
+    },
+    {
+      "Character": "⼥",
+      "UNICODE": "0x2F25"
+    },
+    {
+      "Character": "⼦",
+      "UNICODE": "0x2F26"
+    },
+    {
+      "Character": "⼧",
+      "UNICODE": "0x2F27"
+    },
+    {
+      "Character": "⼨",
+      "UNICODE": "0x2F28"
+    },
+    {
+      "Character": "⼩",
+      "UNICODE": "0x2F29"
+    },
+    {
+      "Character": "⼪",
+      "UNICODE": "0x2F2A"
+    },
+    {
+      "Character": "⼫",
+      "UNICODE": "0x2F2B"
+    },
+    {
+      "Character": "⼬",
+      "UNICODE": "0x2F2C"
+    },
+    {
+      "Character": "⼭",
+      "UNICODE": "0x2F2D"
+    },
+    {
+      "Character": "⼮",
+      "UNICODE": "0x2F2E"
+    },
+    {
+      "Character": "⼯",
+      "UNICODE": "0x2F2F"
+    },
+    {
+      "Character": "⼰",
+      "UNICODE": "0x2F30"
+    },
+    {
+      "Character": "⼱",
+      "UNICODE": "0x2F31"
+    },
+    {
+      "Character": "⼲",
+      "UNICODE": "0x2F32"
+    },
+    {
+      "Character": "⼳",
+      "UNICODE": "0x2F33"
+    },
+    {
+      "Character": "⼴",
+      "UNICODE": "0x2F34"
+    },
+    {
+      "Character": "⼵",
+      "UNICODE": "0x2F35"
+    },
+    {
+      "Character": "⼶",
+      "UNICODE": "0x2F36"
+    },
+    {
+      "Character": "⼷",
+      "UNICODE": "0x2F37"
+    },
+    {
+      "Character": "⼸",
+      "UNICODE": "0x2F38"
+    },
+    {
+      "Character": "⼹",
+      "UNICODE": "0x2F39"
+    },
+    {
+      "Character": "⼺",
+      "UNICODE": "0x2F3A"
+    },
+    {
+      "Character": "⼻",
+      "UNICODE": "0x2F3B"
+    },
+    {
+      "Character": "⼼",
+      "UNICODE": "0x2F3C"
+    },
+    {
+      "Character": "⼽",
+      "UNICODE": "0x2F3D"
+    },
+    {
+      "Character": "⼾",
+      "UNICODE": "0x2F3E"
+    },
+    {
+      "Character": "⼿",
+      "UNICODE": "0x2F3F"
+    },
+    {
+      "Character": "⽀",
+      "UNICODE": "0x2F40"
+    },
+    {
+      "Character": "⽁",
+      "UNICODE": "0x2F41"
+    },
+    {
+      "Character": "⽂",
+      "UNICODE": "0x2F42"
+    },
+    {
+      "Character": "⽃",
+      "UNICODE": "0x2F43"
+    },
+    {
+      "Character": "⽄",
+      "UNICODE": "0x2F44"
+    },
+    {
+      "Character": "⽅",
+      "UNICODE": "0x2F45"
+    },
+    {
+      "Character": "⽆",
+      "UNICODE": "0x2F46"
+    },
+    {
+      "Character": "⽇",
+      "UNICODE": "0x2F47"
+    },
+    {
+      "Character": "⽈",
+      "UNICODE": "0x2F48"
+    },
+    {
+      "Character": "⽉",
+      "UNICODE": "0x2F49"
+    },
+    {
+      "Character": "⽊",
+      "UNICODE": "0x2F4A"
+    },
+    {
+      "Character": "⽋",
+      "UNICODE": "0x2F4B"
+    },
+    {
+      "Character": "⽌",
+      "UNICODE": "0x2F4C"
+    },
+    {
+      "Character": "⽍",
+      "UNICODE": "0x2F4D"
+    },
+    {
+      "Character": "⽎",
+      "UNICODE": "0x2F4E"
+    },
+    {
+      "Character": "⽏",
+      "UNICODE": "0x2F4F"
+    },
+    {
+      "Character": "⽐",
+      "UNICODE": "0x2F50"
+    },
+    {
+      "Character": "⽑",
+      "UNICODE": "0x2F51"
+    },
+    {
+      "Character": "⽒",
+      "UNICODE": "0x2F52"
+    },
+    {
+      "Character": "⽓",
+      "UNICODE": "0x2F53"
+    },
+    {
+      "Character": "⽔",
+      "UNICODE": "0x2F54"
+    },
+    {
+      "Character": "⽕",
+      "UNICODE": "0x2F55"
+    },
+    {
+      "Character": "⽖",
+      "UNICODE": "0x2F56"
+    },
+    {
+      "Character": "⽗",
+      "UNICODE": "0x2F57"
+    },
+    {
+      "Character": "⽘",
+      "UNICODE": "0x2F58"
+    },
+    {
+      "Character": "⽙",
+      "UNICODE": "0x2F59"
+    },
+    {
+      "Character": "⽚",
+      "UNICODE": "0x2F5A"
+    },
+    {
+      "Character": "⽛",
+      "UNICODE": "0x2F5B"
+    },
+    {
+      "Character": "⽜",
+      "UNICODE": "0x2F5C"
+    },
+    {
+      "Character": "⽝",
+      "UNICODE": "0x2F5D"
+    },
+    {
+      "Character": "⽞",
+      "UNICODE": "0x2F5E"
+    },
+    {
+      "Character": "⽟",
+      "UNICODE": "0x2F5F"
+    },
+    {
+      "Character": "⽠",
+      "UNICODE": "0x2F60"
+    },
+    {
+      "Character": "⽡",
+      "UNICODE": "0x2F61"
+    },
+    {
+      "Character": "⽢",
+      "UNICODE": "0x2F62"
+    },
+    {
+      "Character": "⽣",
+      "UNICODE": "0x2F63"
+    },
+    {
+      "Character": "⽤",
+      "UNICODE": "0x2F64"
+    },
+    {
+      "Character": "⽥",
+      "UNICODE": "0x2F65"
+    },
+    {
+      "Character": "⽦",
+      "UNICODE": "0x2F66"
+    },
+    {
+      "Character": "⽧",
+      "UNICODE": "0x2F67"
+    },
+    {
+      "Character": "⽨",
+      "UNICODE": "0x2F68"
+    },
+    {
+      "Character": "⽩",
+      "UNICODE": "0x2F69"
+    },
+    {
+      "Character": "⽪",
+      "UNICODE": "0x2F6A"
+    },
+    {
+      "Character": "⽫",
+      "UNICODE": "0x2F6B"
+    },
+    {
+      "Character": "⽬",
+      "UNICODE": "0x2F6C"
+    },
+    {
+      "Character": "⽭",
+      "UNICODE": "0x2F6D"
+    },
+    {
+      "Character": "⽮",
+      "UNICODE": "0x2F6E"
+    },
+    {
+      "Character": "⽯",
+      "UNICODE": "0x2F6F"
+    },
+    {
+      "Character": "⽰",
+      "UNICODE": "0x2F70"
+    },
+    {
+      "Character": "⽱",
+      "UNICODE": "0x2F71"
+    },
+    {
+      "Character": "⽲",
+      "UNICODE": "0x2F72"
+    },
+    {
+      "Character": "⽳",
+      "UNICODE": "0x2F73"
+    },
+    {
+      "Character": "⽴",
+      "UNICODE": "0x2F74"
+    },
+    {
+      "Character": "⽵",
+      "UNICODE": "0x2F75"
+    },
+    {
+      "Character": "⽶",
+      "UNICODE": "0x2F76"
+    },
+    {
+      "Character": "⽷",
+      "UNICODE": "0x2F77"
+    },
+    {
+      "Character": "⽸",
+      "UNICODE": "0x2F78"
+    },
+    {
+      "Character": "⽹",
+      "UNICODE": "0x2F79"
+    },
+    {
+      "Character": "⽺",
+      "UNICODE": "0x2F7A"
+    },
+    {
+      "Character": "⽻",
+      "UNICODE": "0x2F7B"
+    },
+    {
+      "Character": "⽼",
+      "UNICODE": "0x2F7C"
+    },
+    {
+      "Character": "⽽",
+      "UNICODE": "0x2F7D"
+    },
+    {
+      "Character": "⽾",
+      "UNICODE": "0x2F7E"
+    },
+    {
+      "Character": "⽿",
+      "UNICODE": "0x2F7F"
+    },
+    {
+      "Character": "⾀",
+      "UNICODE": "0x2F80"
+    },
+    {
+      "Character": "⾁",
+      "UNICODE": "0x2F81"
+    },
+    {
+      "Character": "⾂",
+      "UNICODE": "0x2F82"
+    },
+    {
+      "Character": "⾃",
+      "UNICODE": "0x2F83"
+    },
+    {
+      "Character": "⾄",
+      "UNICODE": "0x2F84"
+    },
+    {
+      "Character": "⾅",
+      "UNICODE": "0x2F85"
+    },
+    {
+      "Character": "⾆",
+      "UNICODE": "0x2F86"
+    },
+    {
+      "Character": "⾇",
+      "UNICODE": "0x2F87"
+    },
+    {
+      "Character": "⾈",
+      "UNICODE": "0x2F88"
+    },
+    {
+      "Character": "⾉",
+      "UNICODE": "0x2F89"
+    },
+    {
+      "Character": "⾊",
+      "UNICODE": "0x2F8A"
+    },
+    {
+      "Character": "⾋",
+      "UNICODE": "0x2F8B"
+    },
+    {
+      "Character": "⾌",
+      "UNICODE": "0x2F8C"
+    },
+    {
+      "Character": "⾍",
+      "UNICODE": "0x2F8D"
+    },
+    {
+      "Character": "⾎",
+      "UNICODE": "0x2F8E"
+    },
+    {
+      "Character": "⾏",
+      "UNICODE": "0x2F8F"
+    },
+    {
+      "Character": "⾐",
+      "UNICODE": "0x2F90"
+    },
+    {
+      "Character": "⾑",
+      "UNICODE": "0x2F91"
+    },
+    {
+      "Character": "⾒",
+      "UNICODE": "0x2F92"
+    },
+    {
+      "Character": "⾓",
+      "UNICODE": "0x2F93"
+    },
+    {
+      "Character": "⾔",
+      "UNICODE": "0x2F94"
+    },
+    {
+      "Character": "⾕",
+      "UNICODE": "0x2F95"
+    },
+    {
+      "Character": "⾖",
+      "UNICODE": "0x2F96"
+    },
+    {
+      "Character": "⾗",
+      "UNICODE": "0x2F97"
+    },
+    {
+      "Character": "⾘",
+      "UNICODE": "0x2F98"
+    },
+    {
+      "Character": "⾙",
+      "UNICODE": "0x2F99"
+    },
+    {
+      "Character": "⾚",
+      "UNICODE": "0x2F9A"
+    },
+    {
+      "Character": "⾛",
+      "UNICODE": "0x2F9B"
+    },
+    {
+      "Character": "⾜",
+      "UNICODE": "0x2F9C"
+    },
+    {
+      "Character": "⾝",
+      "UNICODE": "0x2F9D"
+    },
+    {
+      "Character": "⾞",
+      "UNICODE": "0x2F9E"
+    },
+    {
+      "Character": "⾟",
+      "UNICODE": "0x2F9F"
+    },
+    {
+      "Character": "⾠",
+      "UNICODE": "0x2FA0"
+    },
+    {
+      "Character": "⾡",
+      "UNICODE": "0x2FA1"
+    },
+    {
+      "Character": "⾢",
+      "UNICODE": "0x2FA2"
+    },
+    {
+      "Character": "⾣",
+      "UNICODE": "0x2FA3"
+    },
+    {
+      "Character": "⾤",
+      "UNICODE": "0x2FA4"
+    },
+    {
+      "Character": "⾥",
+      "UNICODE": "0x2FA5"
+    },
+    {
+      "Character": "⾦",
+      "UNICODE": "0x2FA6"
+    },
+    {
+      "Character": "⾧",
+      "UNICODE": "0x2FA7"
+    },
+    {
+      "Character": "⾨",
+      "UNICODE": "0x2FA8"
+    },
+    {
+      "Character": "⾩",
+      "UNICODE": "0x2FA9"
+    },
+    {
+      "Character": "⾪",
+      "UNICODE": "0x2FAA"
+    },
+    {
+      "Character": "⾫",
+      "UNICODE": "0x2FAB"
+    },
+    {
+      "Character": "⾬",
+      "UNICODE": "0x2FAC"
+    },
+    {
+      "Character": "⾭",
+      "UNICODE": "0x2FAD"
+    },
+    {
+      "Character": "⾮",
+      "UNICODE": "0x2FAE"
+    },
+    {
+      "Character": "⾯",
+      "UNICODE": "0x2FAF"
+    },
+    {
+      "Character": "⾰",
+      "UNICODE": "0x2FB0"
+    },
+    {
+      "Character": "⾱",
+      "UNICODE": "0x2FB1"
+    },
+    {
+      "Character": "⾲",
+      "UNICODE": "0x2FB2"
+    },
+    {
+      "Character": "⾳",
+      "UNICODE": "0x2FB3"
+    },
+    {
+      "Character": "⾴",
+      "UNICODE": "0x2FB4"
+    },
+    {
+      "Character": "⾵",
+      "UNICODE": "0x2FB5"
+    },
+    {
+      "Character": "⾶",
+      "UNICODE": "0x2FB6"
+    },
+    {
+      "Character": "⾷",
+      "UNICODE": "0x2FB7"
+    },
+    {
+      "Character": "⾸",
+      "UNICODE": "0x2FB8"
+    },
+    {
+      "Character": "⾹",
+      "UNICODE": "0x2FB9"
+    },
+    {
+      "Character": "⾺",
+      "UNICODE": "0x2FBA"
+    },
+    {
+      "Character": "⾻",
+      "UNICODE": "0x2FBB"
+    },
+    {
+      "Character": "⾼",
+      "UNICODE": "0x2FBC"
+    },
+    {
+      "Character": "⾽",
+      "UNICODE": "0x2FBD"
+    },
+    {
+      "Character": "⾾",
+      "UNICODE": "0x2FBE"
+    },
+    {
+      "Character": "⾿",
+      "UNICODE": "0x2FBF"
+    },
+    {
+      "Character": "⿀",
+      "UNICODE": "0x2FC0"
+    },
+    {
+      "Character": "⿁",
+      "UNICODE": "0x2FC1"
+    },
+    {
+      "Character": "⿂",
+      "UNICODE": "0x2FC2"
+    },
+    {
+      "Character": "⿃",
+      "UNICODE": "0x2FC3"
+    },
+    {
+      "Character": "⿄",
+      "UNICODE": "0x2FC4"
+    },
+    {
+      "Character": "⿅",
+      "UNICODE": "0x2FC5"
+    },
+    {
+      "Character": "⿆",
+      "UNICODE": "0x2FC6"
+    },
+    {
+      "Character": "⿇",
+      "UNICODE": "0x2FC7"
+    },
+    {
+      "Character": "⿈",
+      "UNICODE": "0x2FC8"
+    },
+    {
+      "Character": "⿉",
+      "UNICODE": "0x2FC9"
+    },
+    {
+      "Character": "⿊",
+      "UNICODE": "0x2FCA"
+    },
+    {
+      "Character": "⿋",
+      "UNICODE": "0x2FCB"
+    },
+    {
+      "Character": "⿌",
+      "UNICODE": "0x2FCC"
+    },
+    {
+      "Character": "⿍",
+      "UNICODE": "0x2FCD"
+    },
+    {
+      "Character": "⿎",
+      "UNICODE": "0x2FCE"
+    },
+    {
+      "Character": "⿏",
+      "UNICODE": "0x2FCF"
+    },
+    {
+      "Character": "⿐",
+      "UNICODE": "0x2FD0"
+    },
+    {
+      "Character": "⿑",
+      "UNICODE": "0x2FD1"
+    },
+    {
+      "Character": "⿒",
+      "UNICODE": "0x2FD2"
+    },
+    {
+      "Character": "⿓",
+      "UNICODE": "0x2FD3"
+    },
+    {
+      "Character": "⿔",
+      "UNICODE": "0x2FD4"
+    },
+    {
+      "Character": "⿕",
+      "UNICODE": "0x2FD5"
+    },
+    {
+      "Character": "、",
+      "UNICODE": "0x3001"
+    },
+    {
+      "Character": "。",
+      "UNICODE": "0x3002"
+    },
+    {
+      "Character": "「",
+      "UNICODE": "0x300C"
+    },
+    {
+      "Character": "」",
+      "UNICODE": "0x300D"
+    },
+    {
+      "Character": "ぁ",
+      "UNICODE": "0x3041"
+    },
+    {
+      "Character": "あ",
+      "UNICODE": "0x3042"
+    },
+    {
+      "Character": "ぃ",
+      "UNICODE": "0x3043"
+    },
+    {
+      "Character": "い",
+      "UNICODE": "0x3044"
+    },
+    {
+      "Character": "ぅ",
+      "UNICODE": "0x3045"
+    },
+    {
+      "Character": "う",
+      "UNICODE": "0x3046"
+    },
+    {
+      "Character": "ぇ",
+      "UNICODE": "0x3047"
+    },
+    {
+      "Character": "え",
+      "UNICODE": "0x3048"
+    },
+    {
+      "Character": "ぉ",
+      "UNICODE": "0x3049"
+    },
+    {
+      "Character": "お",
+      "UNICODE": "0x304A"
+    },
+    {
+      "Character": "か",
+      "UNICODE": "0x304B"
+    },
+    {
+      "Character": "が",
+      "UNICODE": "0x304C"
+    },
+    {
+      "Character": "き",
+      "UNICODE": "0x304D"
+    },
+    {
+      "Character": "ぎ",
+      "UNICODE": "0x304E"
+    },
+    {
+      "Character": "く",
+      "UNICODE": "0x304F"
+    },
+    {
+      "Character": "ぐ",
+      "UNICODE": "0x3050"
+    },
+    {
+      "Character": "け",
+      "UNICODE": "0x3051"
+    },
+    {
+      "Character": "げ",
+      "UNICODE": "0x3052"
+    },
+    {
+      "Character": "こ",
+      "UNICODE": "0x3053"
+    },
+    {
+      "Character": "ご",
+      "UNICODE": "0x3054"
+    },
+    {
+      "Character": "さ",
+      "UNICODE": "0x3055"
+    },
+    {
+      "Character": "ざ",
+      "UNICODE": "0x3056"
+    },
+    {
+      "Character": "し",
+      "UNICODE": "0x3057"
+    },
+    {
+      "Character": "じ",
+      "UNICODE": "0x3058"
+    },
+    {
+      "Character": "す",
+      "UNICODE": "0x3059"
+    },
+    {
+      "Character": "ず",
+      "UNICODE": "0x305A"
+    },
+    {
+      "Character": "せ",
+      "UNICODE": "0x305B"
+    },
+    {
+      "Character": "ぜ",
+      "UNICODE": "0x305C"
+    },
+    {
+      "Character": "そ",
+      "UNICODE": "0x305D"
+    },
+    {
+      "Character": "ぞ",
+      "UNICODE": "0x305E"
+    },
+    {
+      "Character": "た",
+      "UNICODE": "0x305F"
+    },
+    {
+      "Character": "だ",
+      "UNICODE": "0x3060"
+    },
+    {
+      "Character": "ち",
+      "UNICODE": "0x3061"
+    },
+    {
+      "Character": "ぢ",
+      "UNICODE": "0x3062"
+    },
+    {
+      "Character": "っ",
+      "UNICODE": "0x3063"
+    },
+    {
+      "Character": "つ",
+      "UNICODE": "0x3064"
+    },
+    {
+      "Character": "づ",
+      "UNICODE": "0x3065"
+    },
+    {
+      "Character": "て",
+      "UNICODE": "0x3066"
+    },
+    {
+      "Character": "で",
+      "UNICODE": "0x3067"
+    },
+    {
+      "Character": "と",
+      "UNICODE": "0x3068"
+    },
+    {
+      "Character": "ど",
+      "UNICODE": "0x3069"
+    },
+    {
+      "Character": "な",
+      "UNICODE": "0x306A"
+    },
+    {
+      "Character": "に",
+      "UNICODE": "0x306B"
+    },
+    {
+      "Character": "ぬ",
+      "UNICODE": "0x306C"
+    },
+    {
+      "Character": "ね",
+      "UNICODE": "0x306D"
+    },
+    {
+      "Character": "の",
+      "UNICODE": "0x306E"
+    },
+    {
+      "Character": "は",
+      "UNICODE": "0x306F"
+    },
+    {
+      "Character": "ば",
+      "UNICODE": "0x3070"
+    },
+    {
+      "Character": "ぱ",
+      "UNICODE": "0x3071"
+    },
+    {
+      "Character": "ひ",
+      "UNICODE": "0x3072"
+    },
+    {
+      "Character": "び",
+      "UNICODE": "0x3073"
+    },
+    {
+      "Character": "ぴ",
+      "UNICODE": "0x3074"
+    },
+    {
+      "Character": "ふ",
+      "UNICODE": "0x3075"
+    },
+    {
+      "Character": "ぶ",
+      "UNICODE": "0x3076"
+    },
+    {
+      "Character": "ぷ",
+      "UNICODE": "0x3077"
+    },
+    {
+      "Character": "へ",
+      "UNICODE": "0x3078"
+    },
+    {
+      "Character": "べ",
+      "UNICODE": "0x3079"
+    },
+    {
+      "Character": "ぺ",
+      "UNICODE": "0x307A"
+    },
+    {
+      "Character": "ほ",
+      "UNICODE": "0x307B"
+    },
+    {
+      "Character": "ぼ",
+      "UNICODE": "0x307C"
+    },
+    {
+      "Character": "ぽ",
+      "UNICODE": "0x307D"
+    },
+    {
+      "Character": "ま",
+      "UNICODE": "0x307E"
+    },
+    {
+      "Character": "み",
+      "UNICODE": "0x307F"
+    },
+    {
+      "Character": "む",
+      "UNICODE": "0x3080"
+    },
+    {
+      "Character": "め",
+      "UNICODE": "0x3081"
+    },
+    {
+      "Character": "も",
+      "UNICODE": "0x3082"
+    },
+    {
+      "Character": "ゃ",
+      "UNICODE": "0x3083"
+    },
+    {
+      "Character": "や",
+      "UNICODE": "0x3084"
+    },
+    {
+      "Character": "ゅ",
+      "UNICODE": "0x3085"
+    },
+    {
+      "Character": "ゆ",
+      "UNICODE": "0x3086"
+    },
+    {
+      "Character": "ょ",
+      "UNICODE": "0x3087"
+    },
+    {
+      "Character": "よ",
+      "UNICODE": "0x3088"
+    },
+    {
+      "Character": "ら",
+      "UNICODE": "0x3089"
+    },
+    {
+      "Character": "り",
+      "UNICODE": "0x308A"
+    },
+    {
+      "Character": "る",
+      "UNICODE": "0x308B"
+    },
+    {
+      "Character": "れ",
+      "UNICODE": "0x308C"
+    },
+    {
+      "Character": "ろ",
+      "UNICODE": "0x308D"
+    },
+    {
+      "Character": "ゎ",
+      "UNICODE": "0x308E"
+    },
+    {
+      "Character": "わ",
+      "UNICODE": "0x308F"
+    },
+    {
+      "Character": "ゐ",
+      "UNICODE": "0x3090"
+    },
+    {
+      "Character": "ゑ",
+      "UNICODE": "0x3091"
+    },
+    {
+      "Character": "を",
+      "UNICODE": "0x3092"
+    },
+    {
+      "Character": "ん",
+      "UNICODE": "0x3093"
+    },
+    {
+      "Character": "ゔ",
+      "UNICODE": "0x3094"
+    },
+    {
+      "Character": "ゕ",
+      "UNICODE": "0x3095"
+    },
+    {
+      "Character": "ゖ",
+      "UNICODE": "0x3096"
+    },
+    {
+      "Character": "゙",
+      "UNICODE": "0x3099"
+    },
+    {
+      "Character": "゚",
+      "UNICODE": "0x309A"
+    },
+    {
+      "Character": "゛",
+      "UNICODE": "0x309B"
+    },
+    {
+      "Character": "゜",
+      "UNICODE": "0x309C"
+    },
+    {
+      "Character": "ゝ",
+      "UNICODE": "0x309D"
+    },
+    {
+      "Character": "ゞ",
+      "UNICODE": "0x309E"
+    },
+    {
+      "Character": "ゟ",
+      "UNICODE": "0x309F"
+    },
+    {
+      "Character": "゠",
+      "UNICODE": "0x30A0"
+    },
+    {
+      "Character": "ァ",
+      "UNICODE": "0x30A1"
+    },
+    {
+      "Character": "ア",
+      "UNICODE": "0x30A2"
+    },
+    {
+      "Character": "ィ",
+      "UNICODE": "0x30A3"
+    },
+    {
+      "Character": "イ",
+      "UNICODE": "0x30A4"
+    },
+    {
+      "Character": "ゥ",
+      "UNICODE": "0x30A5"
+    },
+    {
+      "Character": "ウ",
+      "UNICODE": "0x30A6"
+    },
+    {
+      "Character": "ェ",
+      "UNICODE": "0x30A7"
+    },
+    {
+      "Character": "エ",
+      "UNICODE": "0x30A8"
+    },
+    {
+      "Character": "ォ",
+      "UNICODE": "0x30A9"
+    },
+    {
+      "Character": "オ",
+      "UNICODE": "0x30AA"
+    },
+    {
+      "Character": "カ",
+      "UNICODE": "0x30AB"
+    },
+    {
+      "Character": "ガ",
+      "UNICODE": "0x30AC"
+    },
+    {
+      "Character": "キ",
+      "UNICODE": "0x30AD"
+    },
+    {
+      "Character": "ギ",
+      "UNICODE": "0x30AE"
+    },
+    {
+      "Character": "ク",
+      "UNICODE": "0x30AF"
+    },
+    {
+      "Character": "グ",
+      "UNICODE": "0x30B0"
+    },
+    {
+      "Character": "ケ",
+      "UNICODE": "0x30B1"
+    },
+    {
+      "Character": "ゲ",
+      "UNICODE": "0x30B2"
+    },
+    {
+      "Character": "コ",
+      "UNICODE": "0x30B3"
+    },
+    {
+      "Character": "ゴ",
+      "UNICODE": "0x30B4"
+    },
+    {
+      "Character": "サ",
+      "UNICODE": "0x30B5"
+    },
+    {
+      "Character": "ザ",
+      "UNICODE": "0x30B6"
+    },
+    {
+      "Character": "シ",
+      "UNICODE": "0x30B7"
+    },
+    {
+      "Character": "ジ",
+      "UNICODE": "0x30B8"
+    },
+    {
+      "Character": "ス",
+      "UNICODE": "0x30B9"
+    },
+    {
+      "Character": "ズ",
+      "UNICODE": "0x30BA"
+    },
+    {
+      "Character": "セ",
+      "UNICODE": "0x30BB"
+    },
+    {
+      "Character": "ゼ",
+      "UNICODE": "0x30BC"
+    },
+    {
+      "Character": "ソ",
+      "UNICODE": "0x30BD"
+    },
+    {
+      "Character": "ゾ",
+      "UNICODE": "0x30BE"
+    },
+    {
+      "Character": "タ",
+      "UNICODE": "0x30BF"
+    },
+    {
+      "Character": "ダ",
+      "UNICODE": "0x30C0"
+    },
+    {
+      "Character": "チ",
+      "UNICODE": "0x30C1"
+    },
+    {
+      "Character": "ヂ",
+      "UNICODE": "0x30C2"
+    },
+    {
+      "Character": "ッ",
+      "UNICODE": "0x30C3"
+    },
+    {
+      "Character": "ツ",
+      "UNICODE": "0x30C4"
+    },
+    {
+      "Character": "ヅ",
+      "UNICODE": "0x30C5"
+    },
+    {
+      "Character": "テ",
+      "UNICODE": "0x30C6"
+    },
+    {
+      "Character": "デ",
+      "UNICODE": "0x30C7"
+    },
+    {
+      "Character": "ト",
+      "UNICODE": "0x30C8"
+    },
+    {
+      "Character": "ド",
+      "UNICODE": "0x30C9"
+    },
+    {
+      "Character": "ナ",
+      "UNICODE": "0x30CA"
+    },
+    {
+      "Character": "ニ",
+      "UNICODE": "0x30CB"
+    },
+    {
+      "Character": "ヌ",
+      "UNICODE": "0x30CC"
+    },
+    {
+      "Character": "ネ",
+      "UNICODE": "0x30CD"
+    },
+    {
+      "Character": "ノ",
+      "UNICODE": "0x30CE"
+    },
+    {
+      "Character": "ハ",
+      "UNICODE": "0x30CF"
+    },
+    {
+      "Character": "バ",
+      "UNICODE": "0x30D0"
+    },
+    {
+      "Character": "パ",
+      "UNICODE": "0x30D1"
+    },
+    {
+      "Character": "ヒ",
+      "UNICODE": "0x30D2"
+    },
+    {
+      "Character": "ビ",
+      "UNICODE": "0x30D3"
+    },
+    {
+      "Character": "ピ",
+      "UNICODE": "0x30D4"
+    },
+    {
+      "Character": "フ",
+      "UNICODE": "0x30D5"
+    },
+    {
+      "Character": "ブ",
+      "UNICODE": "0x30D6"
+    },
+    {
+      "Character": "プ",
+      "UNICODE": "0x30D7"
+    },
+    {
+      "Character": "ヘ",
+      "UNICODE": "0x30D8"
+    },
+    {
+      "Character": "ベ",
+      "UNICODE": "0x30D9"
+    },
+    {
+      "Character": "ペ",
+      "UNICODE": "0x30DA"
+    },
+    {
+      "Character": "ホ",
+      "UNICODE": "0x30DB"
+    },
+    {
+      "Character": "ボ",
+      "UNICODE": "0x30DC"
+    },
+    {
+      "Character": "ポ",
+      "UNICODE": "0x30DD"
+    },
+    {
+      "Character": "マ",
+      "UNICODE": "0x30DE"
+    },
+    {
+      "Character": "ミ",
+      "UNICODE": "0x30DF"
+    },
+    {
+      "Character": "ム",
+      "UNICODE": "0x30E0"
+    },
+    {
+      "Character": "メ",
+      "UNICODE": "0x30E1"
+    },
+    {
+      "Character": "モ",
+      "UNICODE": "0x30E2"
+    },
+    {
+      "Character": "ャ",
+      "UNICODE": "0x30E3"
+    },
+    {
+      "Character": "ヤ",
+      "UNICODE": "0x30E4"
+    },
+    {
+      "Character": "ュ",
+      "UNICODE": "0x30E5"
+    },
+    {
+      "Character": "ユ",
+      "UNICODE": "0x30E6"
+    },
+    {
+      "Character": "ョ",
+      "UNICODE": "0x30E7"
+    },
+    {
+      "Character": "ヨ",
+      "UNICODE": "0x30E8"
+    },
+    {
+      "Character": "ラ",
+      "UNICODE": "0x30E9"
+    },
+    {
+      "Character": "リ",
+      "UNICODE": "0x30EA"
+    },
+    {
+      "Character": "ル",
+      "UNICODE": "0x30EB"
+    },
+    {
+      "Character": "レ",
+      "UNICODE": "0x30EC"
+    },
+    {
+      "Character": "ロ",
+      "UNICODE": "0x30ED"
+    },
+    {
+      "Character": "ヮ",
+      "UNICODE": "0x30EE"
+    },
+    {
+      "Character": "ワ",
+      "UNICODE": "0x30EF"
+    },
+    {
+      "Character": "ヰ",
+      "UNICODE": "0x30F0"
+    },
+    {
+      "Character": "ヱ",
+      "UNICODE": "0x30F1"
+    },
+    {
+      "Character": "ヲ",
+      "UNICODE": "0x30F2"
+    },
+    {
+      "Character": "ン",
+      "UNICODE": "0x30F3"
+    },
+    {
+      "Character": "ヴ",
+      "UNICODE": "0x30F4"
+    },
+    {
+      "Character": "ヵ",
+      "UNICODE": "0x30F5"
+    },
+    {
+      "Character": "ヶ",
+      "UNICODE": "0x30F6"
+    },
+    {
+      "Character": "ヷ",
+      "UNICODE": "0x30F7"
+    },
+    {
+      "Character": "ヸ",
+      "UNICODE": "0x30F8"
+    },
+    {
+      "Character": "ヹ",
+      "UNICODE": "0x30F9"
+    },
+    {
+      "Character": "ヺ",
+      "UNICODE": "0x30FA"
+    },
+    {
+      "Character": "・",
+      "UNICODE": "0x30FB"
+    },
+    {
+      "Character": "ー",
+      "UNICODE": "0x30FC"
+    },
+    {
+      "Character": "ヽ",
+      "UNICODE": "0x30FD"
+    },
+    {
+      "Character": "ヾ",
+      "UNICODE": "0x30FE"
+    },
+    {
+      "Character": "ヿ",
+      "UNICODE": "0x30FF"
+    },
+    {
+      "Character": "ㄅ",
+      "UNICODE": "0x3105"
+    },
+    {
+      "Character": "ㄆ",
+      "UNICODE": "0x3106"
+    },
+    {
+      "Character": "ㄇ",
+      "UNICODE": "0x3107"
+    },
+    {
+      "Character": "ㄈ",
+      "UNICODE": "0x3108"
+    },
+    {
+      "Character": "ㄉ",
+      "UNICODE": "0x3109"
+    },
+    {
+      "Character": "ㄊ",
+      "UNICODE": "0x310A"
+    },
+    {
+      "Character": "ㄋ",
+      "UNICODE": "0x310B"
+    },
+    {
+      "Character": "ㄌ",
+      "UNICODE": "0x310C"
+    },
+    {
+      "Character": "ㄍ",
+      "UNICODE": "0x310D"
+    },
+    {
+      "Character": "ㄎ",
+      "UNICODE": "0x310E"
+    },
+    {
+      "Character": "ㄏ",
+      "UNICODE": "0x310F"
+    },
+    {
+      "Character": "ㄐ",
+      "UNICODE": "0x3110"
+    },
+    {
+      "Character": "ㄑ",
+      "UNICODE": "0x3111"
+    },
+    {
+      "Character": "ㄒ",
+      "UNICODE": "0x3112"
+    },
+    {
+      "Character": "ㄓ",
+      "UNICODE": "0x3113"
+    },
+    {
+      "Character": "ㄔ",
+      "UNICODE": "0x3114"
+    },
+    {
+      "Character": "ㄕ",
+      "UNICODE": "0x3115"
+    },
+    {
+      "Character": "ㄖ",
+      "UNICODE": "0x3116"
+    },
+    {
+      "Character": "ㄗ",
+      "UNICODE": "0x3117"
+    },
+    {
+      "Character": "ㄘ",
+      "UNICODE": "0x3118"
+    },
+    {
+      "Character": "ㄙ",
+      "UNICODE": "0x3119"
+    },
+    {
+      "Character": "ㄚ",
+      "UNICODE": "0x311A"
+    },
+    {
+      "Character": "ㄛ",
+      "UNICODE": "0x311B"
+    },
+    {
+      "Character": "ㄜ",
+      "UNICODE": "0x311C"
+    },
+    {
+      "Character": "ㄝ",
+      "UNICODE": "0x311D"
+    },
+    {
+      "Character": "ㄞ",
+      "UNICODE": "0x311E"
+    },
+    {
+      "Character": "ㄟ",
+      "UNICODE": "0x311F"
+    },
+    {
+      "Character": "ㄠ",
+      "UNICODE": "0x3120"
+    },
+    {
+      "Character": "ㄡ",
+      "UNICODE": "0x3121"
+    },
+    {
+      "Character": "ㄢ",
+      "UNICODE": "0x3122"
+    },
+    {
+      "Character": "ㄣ",
+      "UNICODE": "0x3123"
+    },
+    {
+      "Character": "ㄤ",
+      "UNICODE": "0x3124"
+    },
+    {
+      "Character": "ㄥ",
+      "UNICODE": "0x3125"
+    },
+    {
+      "Character": "ㄦ",
+      "UNICODE": "0x3126"
+    },
+    {
+      "Character": "ㄧ",
+      "UNICODE": "0x3127"
+    },
+    {
+      "Character": "ㄨ",
+      "UNICODE": "0x3128"
+    },
+    {
+      "Character": "ㄩ",
+      "UNICODE": "0x3129"
+    },
+    {
+      "Character": "ㇰ",
+      "UNICODE": "0x31F0"
+    },
+    {
+      "Character": "ㇱ",
+      "UNICODE": "0x31F1"
+    },
+    {
+      "Character": "ㇲ",
+      "UNICODE": "0x31F2"
+    },
+    {
+      "Character": "ㇳ",
+      "UNICODE": "0x31F3"
+    },
+    {
+      "Character": "ㇴ",
+      "UNICODE": "0x31F4"
+    },
+    {
+      "Character": "ㇵ",
+      "UNICODE": "0x31F5"
+    },
+    {
+      "Character": "ㇶ",
+      "UNICODE": "0x31F6"
+    },
+    {
+      "Character": "ㇷ",
+      "UNICODE": "0x31F7"
+    },
+    {
+      "Character": "ㇸ",
+      "UNICODE": "0x31F8"
+    },
+    {
+      "Character": "ㇹ",
+      "UNICODE": "0x31F9"
+    },
+    {
+      "Character": "ㇺ",
+      "UNICODE": "0x31FA"
+    },
+    {
+      "Character": "ㇻ",
+      "UNICODE": "0x31FB"
+    },
+    {
+      "Character": "ㇼ",
+      "UNICODE": "0x31FC"
+    },
+    {
+      "Character": "ㇽ",
+      "UNICODE": "0x31FD"
+    },
+    {
+      "Character": "ㇾ",
+      "UNICODE": "0x31FE"
+    },
+    {
+      "Character": "ㇿ",
+      "UNICODE": "0x31FF"
+    },
+    {
+      "Character": "｡",
+      "UNICODE": "0xFF61"
+    },
+    {
+      "Character": "｢",
+      "UNICODE": "0xFF62"
+    },
+    {
+      "Character": "｣",
+      "UNICODE": "0xFF63"
+    },
+    {
+      "Character": "､",
+      "UNICODE": "0xFF64"
+    },
+    {
+      "Character": "･",
+      "UNICODE": "0xFF65"
+    },
+    {
+      "Character": "ｦ",
+      "UNICODE": "0xFF66"
+    },
+    {
+      "Character": "ｧ",
+      "UNICODE": "0xFF67"
+    },
+    {
+      "Character": "ｨ",
+      "UNICODE": "0xFF68"
+    },
+    {
+      "Character": "ｩ",
+      "UNICODE": "0xFF69"
+    },
+    {
+      "Character": "ｪ",
+      "UNICODE": "0xFF6A"
+    },
+    {
+      "Character": "ｫ",
+      "UNICODE": "0xFF6B"
+    },
+    {
+      "Character": "ｬ",
+      "UNICODE": "0xFF6C"
+    },
+    {
+      "Character": "ｭ",
+      "UNICODE": "0xFF6D"
+    },
+    {
+      "Character": "ｮ",
+      "UNICODE": "0xFF6E"
+    },
+    {
+      "Character": "ｯ",
+      "UNICODE": "0xFF6F"
+    },
+    {
+      "Character": "ｰ",
+      "UNICODE": "0xFF70"
+    },
+    {
+      "Character": "ｱ",
+      "UNICODE": "0xFF71"
+    },
+    {
+      "Character": "ｲ",
+      "UNICODE": "0xFF72"
+    },
+    {
+      "Character": "ｳ",
+      "UNICODE": "0xFF73"
+    },
+    {
+      "Character": "ｴ",
+      "UNICODE": "0xFF74"
+    },
+    {
+      "Character": "ｵ",
+      "UNICODE": "0xFF75"
+    },
+    {
+      "Character": "ｶ",
+      "UNICODE": "0xFF76"
+    },
+    {
+      "Character": "ｷ",
+      "UNICODE": "0xFF77"
+    },
+    {
+      "Character": "ｸ",
+      "UNICODE": "0xFF78"
+    },
+    {
+      "Character": "ｹ",
+      "UNICODE": "0xFF79"
+    },
+    {
+      "Character": "ｺ",
+      "UNICODE": "0xFF7A"
+    },
+    {
+      "Character": "ｻ",
+      "UNICODE": "0xFF7B"
+    },
+    {
+      "Character": "ｼ",
+      "UNICODE": "0xFF7C"
+    },
+    {
+      "Character": "ｽ",
+      "UNICODE": "0xFF7D"
+    },
+    {
+      "Character": "ｾ",
+      "UNICODE": "0xFF7E"
+    },
+    {
+      "Character": "ｿ",
+      "UNICODE": "0xFF7F"
+    },
+    {
+      "Character": "ﾀ",
+      "UNICODE": "0xFF80"
+    },
+    {
+      "Character": "ﾁ",
+      "UNICODE": "0xFF81"
+    },
+    {
+      "Character": "ﾂ",
+      "UNICODE": "0xFF82"
+    },
+    {
+      "Character": "ﾃ",
+      "UNICODE": "0xFF83"
+    },
+    {
+      "Character": "ﾄ",
+      "UNICODE": "0xFF84"
+    },
+    {
+      "Character": "ﾅ",
+      "UNICODE": "0xFF85"
+    },
+    {
+      "Character": "ﾆ",
+      "UNICODE": "0xFF86"
+    },
+    {
+      "Character": "ﾇ",
+      "UNICODE": "0xFF87"
+    },
+    {
+      "Character": "ﾈ",
+      "UNICODE": "0xFF88"
+    },
+    {
+      "Character": "ﾉ",
+      "UNICODE": "0xFF89"
+    },
+    {
+      "Character": "ﾊ",
+      "UNICODE": "0xFF8A"
+    },
+    {
+      "Character": "ﾋ",
+      "UNICODE": "0xFF8B"
+    },
+    {
+      "Character": "ﾌ",
+      "UNICODE": "0xFF8C"
+    },
+    {
+      "Character": "ﾍ",
+      "UNICODE": "0xFF8D"
+    },
+    {
+      "Character": "ﾎ",
+      "UNICODE": "0xFF8E"
+    },
+    {
+      "Character": "ﾏ",
+      "UNICODE": "0xFF8F"
+    },
+    {
+      "Character": "ﾐ",
+      "UNICODE": "0xFF90"
+    },
+    {
+      "Character": "ﾑ",
+      "UNICODE": "0xFF91"
+    },
+    {
+      "Character": "ﾒ",
+      "UNICODE": "0xFF92"
+    },
+    {
+      "Character": "ﾓ",
+      "UNICODE": "0xFF93"
+    },
+    {
+      "Character": "ﾔ",
+      "UNICODE": "0xFF94"
+    },
+    {
+      "Character": "ﾕ",
+      "UNICODE": "0xFF95"
+    },
+    {
+      "Character": "ﾖ",
+      "UNICODE": "0xFF96"
+    },
+    {
+      "Character": "ﾗ",
+      "UNICODE": "0xFF97"
+    },
+    {
+      "Character": "ﾘ",
+      "UNICODE": "0xFF98"
+    },
+    {
+      "Character": "ﾙ",
+      "UNICODE": "0xFF99"
+    },
+    {
+      "Character": "ﾚ",
+      "UNICODE": "0xFF9A"
+    },
+    {
+      "Character": "ﾛ",
+      "UNICODE": "0xFF9B"
+    },
+    {
+      "Character": "ﾜ",
+      "UNICODE": "0xFF9C"
+    },
+    {
+      "Character": "ﾝ",
+      "UNICODE": "0xFF9D"
+    },
+    {
+      "Character": "ﾞ",
+      "UNICODE": "0xFF9E"
+    },
+    {
+      "Character": "ﾟ",
+      "UNICODE": "0xFF9F"
+    }
+  ]
+}

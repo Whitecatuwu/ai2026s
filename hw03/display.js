@@ -25,7 +25,7 @@ function renderWithHighlight(chars, highlightSet, container) {
   const html = chars
     .map((c) => {
       if (highlightSet.has(c)) {
-        return `<span style="font-weight:bold; text-decoration:underline;">${c}</span>`;
+        return `<span class="highlight">${c}</span>`;
       }
       return c;
     })

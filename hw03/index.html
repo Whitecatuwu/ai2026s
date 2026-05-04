@@ -193,16 +193,63 @@
     </div>
   </div>
 
+<!-- ------------------------------------------------>
+  <div class="row hw12">
+    <div class="col-md-12 twenty">
+      <span>教育部常用字字體包位置連結：授權至SIL開源字型</span>
+      <br>
+      <button type="button" onclick="location.href='https://github.com/lctung/ai2026s/blob/main/hw03/MOE114598033.ttf'">
+        前往查看字型
+      </button>
+      <div>(p.s 請記得修改網址)</div>
+    </div>
+  </div>
+  <!-- ------------------------------------------------>
+  <div class="row hw12">
+    <div class="col-md-12 twenty">
+      <span>Big5 字體包位置連結：授權至SIL開源字型</span>
+      <br>
+      <button type="button" onclick="location.href='https://github.com/lctung/ai2026s/blob/main/hw03/Big5114598033.ttf'">
+        前往查看字型
+      </button>
+      <div>(p.s 請記得修改網址)</div>
+    </div>
+  </div>
+  <!-- ------------------------------------------------>
+  <div class="row hw12">
+    <div class="col-md-12 twenty">
+      <span>NotoSans 字體包位置連結：授權至SIL開源字型</span>
+      <br>
+      <button type="button" onclick="location.href='https://github.com/lctung/ai2026s/blob/main/hw03/noto114598033.ttf'">
+        前往查看字型
+      </button>
+      <div>(p.s 請記得修改網址)</div>
+    </div>
+  </div>
   <!-- ------------------------------------------------>
   <div class="row hw12 bottomrow">
     <div class="col-md-12 twenty">
-      <video id="video1" style="width:100%;max-width:100%;" controls="">
-        <source src="https://www.w3schools.com/html/mov_bbb.mp4" type="video/mp4">
-      </video>
+      <figcaption>展示教育部4808常用字</figcaption>
+      <p id="MOE4808"></p>
     </div>
   </div>
 
   <!-- ------------------------------------------------>
+　
+  <div class="row hw12 bottomrow">
+    <div class="col-md-12 twenty">
+      <figcaption>展示Big5全文字</figcaption>
+	  <p id="big5"></p>
+    </div>
+  </div>
+  <!-- ------------------------------------------------>
+  
+  <div class="row hw12 bottomrow">
+    <div class="col-md-12 twenty">
+      <figcaption>展示思源黑體中文全文字</figcaption>
+	  <p id="notosanschar"></p>
+    </div>
+  </div>
 
   <!-- ------------------------------------------------>
 
@@ -249,6 +296,7 @@
     d3.select("#myTotal").html(score);    
   }
 </script>
+<script src="display.js"></script>
 
 </body>
 </html>

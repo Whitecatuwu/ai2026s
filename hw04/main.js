@@ -86,25 +86,48 @@ d3.csv("data.csv").then((data) => {
     .attr("fill", "white")
     .text("SSIM");
 
-  // Scatter points
-  g.selectAll(".dot")
+  const nodes = g
+    .selectAll("g.node")
     .data(data)
     .enter()
-    .append("circle")
-    .attr("class", (d) => (d.Student == self ? "self-dot" : "dot"))
-    .attr("cx", (d) => x(d.LPIPS))
-    .attr("cy", (d) => y(d.SSIM))
-    .attr("r", 6)
+    .append("g")
+    .attr("class", "node")
+    .attr("transform", (d) => `translate(${x(d.LPIPS)},${y(d.SSIM)})`)
+    .style("cursor", "pointer");
 
+  // display frame
+  const frameSize = 40;
+  nodes
+    .append("rect")
+    .attr("x", -frameSize / 2)
+    .attr("y", -frameSize / 2)
+    .attr("width", frameSize)
+    .attr("height", frameSize)
+    .attr("fill", "rgba(0,0,0,0)")
+    .attr("stroke", (d) => (d.Student == self ? "#a01f1f" : "#00a000"))
+    .attr("stroke-width", "5px");
+
+  // display img
+  const imgSize = 40;
+  nodes
+    .append("image")
+    .attr("href", (d) => `img/${d.Student}`)
+    .attr("x", -imgSize / 2)
+    .attr("y", -imgSize / 2)
+    .attr("width", imgSize)
+    .attr("height", imgSize);
+
+  // hover imgs
+  nodes
     .on("mouseover", function (event, d) {
-      d3.select(this).attr("r", 9);
+      tooltip.transition().duration(200).style("opacity", 0.9);
 
-      tooltip.style("opacity", 1).html(`
-                    <div class="title">${d.Student}</div>
-                    <div>LPIPS: ${d.LPIPS}</div>
-                    <div>SSIM: ${d.SSIM}</div>
-                    <img src="img/${d.Student}" />
-                `);
+      tooltip.html(`
+        <div class="title">${d.Student}</div>
+        <div>LPIPS: ${d.LPIPS}</div>
+        <div>SSIM: ${d.SSIM}</div>
+        <img src="img/${d.Student}" />
+      `);
     })
 
     .on("mousemove", function (event) {
@@ -113,9 +136,7 @@ d3.csv("data.csv").then((data) => {
         .style("top", event.pageY - 40 + "px");
     })
 
-    .on("mouseout", function () {
-      d3.select(this).attr("r", 6);
-
-      tooltip.style("opacity", 0);
+    .on("mouseout", function (event, d) {
+      tooltip.transition().duration(200).style("opacity", 0);
     });
 });

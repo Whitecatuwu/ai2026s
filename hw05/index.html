@@ -153,7 +153,8 @@
   <!-- ------------------------------------------------>
   <div class="row hw12">
     <div class="col-md-12 twenty">
-      心得報告 105 字。心得報告 105 字。心得報告 105 字。心得報告 105 字。心得報告 105 字。心得報告 105 字。心得報告 105 字。心得報告 105 字。心得報告 105 字。心得報告 105 字。心得報告 105 字。心得報告 105 字。心得報告 105 字。心得報告 105 字。心得報告 105 字。
+      本次作業讓我初步接觸文生圖技術的實際應用。透過 ComfyUI 的節點式操作方式，我能夠自行串接不同模組並建構完整的圖像生成流程。在實作過程中，除了體驗到生成式 AI 創作的趣味性，也進一步理解模型推論與圖像生成的基本運作機制。最終，我依照指定主題完成了《葬送的芙莉蓮》相關圖像的生成，順利達成本次作業目標。
+
     </div>
   </div>
 
@@ -169,22 +170,22 @@
         </tr>
         <tr>
           <td rowspan="4" id="myTotal"></td>
-          <td><input type="checkbox" class="flipswitch" id="myCheckbox1"></td>
+          <td><input type="checkbox" class="flipswitch" id="myCheckbox1" checked></td>
           <td id='m1'>4</td>
-          <td>Simple baseline - 描述</td>
+          <td>Simple baseline - 完成 ComfyUI + 工作流建置</td>
         </tr>
         <tr>
-          <td><input type="checkbox" class="flipswitch" id="myCheckbox2"></td>
+          <td><input type="checkbox" class="flipswitch" id="myCheckbox2" checked></td>
           <td id='m2'>4</td>
-          <td>Medium baseline - 描述</td>
+          <td>Medium baseline - 完成芙莉蓮、欣梅爾Checkpoint文生圖</td>
         </tr>
         <tr>
-          <td><input type="checkbox" class="flipswitch" id="myCheckbox3"></td>
+          <td><input type="checkbox" class="flipswitch" id="myCheckbox3" checked></td>
           <td id='m3'>2</td>
-          <td>Strong baseline - 描述</td>
+          <td>Strong baseline - 替換 Checkpoint、LoRA 完成芙莉蓮、欣梅爾文生圖</td>
         </tr>
         <tr>
-          <td><input type="checkbox" class="flipswitch" id="myCheckbox4" checked></td>
+          <td><input type="checkbox" class="flipswitch" id="myCheckbox4"></td>
           <td id='m4'>-10</td>
           <td>沒有寫100字心得</td>
         </tr>
@@ -196,15 +197,45 @@
   <!-- ------------------------------------------------>
   <div class="row hw12 bottomrow">
     <div class="col-md-12 twenty">
-      <video id="video1" style="width:100%;max-width:100%;" controls="">
-        <source src="https://www.w3schools.com/html/mov_bbb.mp4" type="video/mp4">
-      </video>
+      <div style="background-color: green; padding: 10px;">
+        <p> Simple - ComfyUI+工作流 </p> 
+        <img class="withborder" src="./build.png" height="360">
+      </div>  
     </div>
   </div>
 
   <!-- ------------------------------------------------>
+   <div class="row hw12 bottomrow">
+    <div class="col-md-12 twenty">
+      <div style="background-color: rgba(255, 0, 0, 0.697); padding: 10px;">
+        <p> Medium - 完成芙莉蓮、欣梅爾Checkpoint文生圖</p>
+        <span>1344*768</span>
+        <p>正向提示詞</p>
+        <p>very awa, anime screencap, masterpiece,best quality,1boy, 1girl, frieren, himmel \(sousou no frieren\), outdoors, upper body, eye contact, light blue hair, cape, capelet, earrings, dappled sunlight, day, hand on another's head, kesyeru, sousou no frieren</p>
+        <p>負向提示詞</p>
+        <p>nsfw,lowres,bad anatomy,bad hands,text,error,missing fingers,extra digit,fewer digits,cropped,worst quality, low quality,normal quality,jpeg artifacts,signature,watermark,username,blurry,artist name</p>
+        <img class="withborder" src="./img1.png" height="360"> 
+      </div>
+    </div>
+  </div>
 
   <!-- ------------------------------------------------>
+   <div class="row hw12 bottomrow">
+    <div class="col-md-12 twenty">
+      <div style="background-color: purple; padding: 10px;">
+        <p> Strong - 替換 Checkpoint、LoRA 完成芙莉蓮、欣梅爾文生圖</p>
+        <span>1344*768</span>
+        <p><a href="https://civitai.com/models/376130/nova-anime-xl" target="_blank">Checkpoint 模型</a></p>
+        <p><a href="https://civitai.com/models/1132089/flat-color-style" target="_blank">LoRA 模型</a></p>
+        <p></p>
+        <p>正向提示詞</p>
+        <p>very awa, masterpiece, best quality, 1boy, 1girl, frieren, himmel $sousou no frieren$, close up, upper body, hand on another's head, gentle smile, eye contact, dappled sunlight, cinematic lighting, profile, detailed hair, light blue hair, white hair, earrings, capelet, peaceful atmosphere</p>
+        <p>負向提示詞</p>
+        <p>nsfw,lowres,bad anatomy,bad hands,text,error,missing fingers,extra digit,fewer digits,cropped,worst quality, low quality,normal quality,jpeg artifacts,signature,watermark,username,blurry,artist name</p>
+        <img class="withborder" src="./img2.png" height="360"> 
+      </div>
+    </div>
+  </div>
 
 
 <script>
